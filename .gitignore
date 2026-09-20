@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.streamlit/
+.DS_Store
+venv/
+corpus/index.json

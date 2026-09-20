@@ -1,0 +1,10 @@
+streamlit
+requests
+beautifulsoup4
+lxml
+rank_bm25
+openai
+python-dotenv
+numpy
+langgraph
+ddgs
