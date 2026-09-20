@@ -154,4 +154,4 @@ since the checkpointer holds live Python objects in-process rather than serializ
 
 ## Repository
 
-Code: https://github.com/anirudhV90/GenAI-Week3 *(update after push)*
+Code: https://github.com/anirudhV90/GenAI-Week3
